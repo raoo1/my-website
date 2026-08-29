@@ -35,11 +35,12 @@ a:hover {
   background-size: 1200% 1200%;
   animation: rainbow 5s ease infinite;
   transform: scale(1.1);
-  box-shadow: 0 0 20px violet, 0 0 30px indigo, 0 0 40px blue, 
-              0 0 50px green, 0 0 60px yellow, 0 0 70px orange, 
+  box-shadow: 0 0 20px violet, 0 0 30px indigo, 0 0 40px blue,
+              0 0 50px green, 0 0 60px yellow, 0 0 70px orange,
               0 0 80px red;
 }
 
+}
 @keyframes rainbow {
   0% { background-position: 0% 50%; }
   50% { background-position: 100% 50%; }
