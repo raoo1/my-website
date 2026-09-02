@@ -7,11 +7,12 @@ It includes:
 - Custom CSS styles (`style.css`)
 - A sample photo (`photo.jpg`)
 
+![Screenshot of my site](photo.jpg)
+
 ### Features
 - Light yellow background with styled headings and text
 - Rainbow hover effect on buttons
 - Deployed live at: [https://raoo1.github.io/my-website/](https://raoo1.github.io/my-website/)
 
 ---
-
-✨ Built and maintained by **Major Rao**.
+⭐ Built and maintained by **Major Rao**.
