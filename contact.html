@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Contact - Major Rao</title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+    body {
+      background-color: #fff8dc; /* light yellow */
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin: 0;
+      padding: 0;
+    }
+    h1 {
+      color: darkblue;
+      margin-top: 30px;
+    }
+    p {
+      color: #333;
+      margin-bottom: 20px;
+    }
+    form {
+      margin: 20px auto;
+      width: 60%;
+      max-width: 500px;
+      padding: 20px;
+      background-color: #f0f8ff;
+      border-radius: 8px;
+      border: 2px solid #4682b4;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    input, textarea {
+      width: 95%;
+      padding: 10px;
+      margin: 10px 0;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      font-size: 14px;
+    }
+    textarea {
+      resize: vertical;
+    }
+    button {
+      padding: 10px 20px;
+      background: linear-gradient(to right, red, violet);
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 15px;
+    }
+    button:hover {
+      background: linear-gradient(to right, orange, green);
+    }
+    .nav-links {
+      margin-top: 20px;
+    }
+    .nav-links a {
+      margin: 0 10px;
+      text-decoration: none;
+      color: darkblue;
+      font-weight: bold;
+    }
+    .nav-links a:hover {
+      color: green;
+    }
+  </style>
+</head>
+<body>
+  <h1>Contact Me</h1>
+  <p>If you’d like to get in touch, please fill out the form below:</p>
+  
+  <form>
+    <input type="text" placeholder="Your Name" required><br>
+    <input type="email" placeholder="Your Email" required><br>
+    <textarea rows="5" placeholder="Your Message"></textarea><br>
+    <button type="submit">Send Message</button>
+  </form>
+
+  <div class="nav-links">
+    <a href="index.html">Home</a> |
+    <a href="about.html">About</a> |
+    <a href="projects.html">Projects</a>
+  </div>
+</body>
+</html>
