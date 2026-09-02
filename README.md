@@ -12,7 +12,8 @@ It includes:
 ### Features
 - Light yellow background with styled headings and text
 - Rainbow hover effect on buttons
-- Deployed live at: [https://raoo1.github.io/my-website/](https://raoo1.github.io/my-website/)
+- Deployed live at: [https://rao01.github.io/my-website/](https://rao01.github.io/my-website/)
 
 ---
 ⭐ Built and maintained by **Major Rao**.
+
