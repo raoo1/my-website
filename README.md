@@ -14,12 +14,14 @@ This repository documents my journey into web development and deployment.
 ---
 
 ## 🖼️ Preview
-## 🖼️ Preview
+### 🏠 Homepage
 ![Homepage Screenshot](photo.jpg)
 
+### 👤 About Page
 ![About Page Screenshot](about.png)
 
-🔗 Live site: [https://raoo1.github.io/my-website/](https://raoo1.github.io/my-website/)
+🌐 Live site: [https://raoo1.github.io/my-website/](https://raoo1.github.io/my-website/)
+
 ---
 
 ## ✨ Features
