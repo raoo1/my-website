@@ -9,6 +9,8 @@ This repository documents my journey into web development and deployment.
 - **index.html** → Homepage  
 - **about.html** → About Me page  
 - **projects.html** → Projects page  
+- **contact.html** → Contact page  
+- **blog.html** → Blog page  
 - **style.css** → Custom CSS styles  
 - **photo.jpg** → Sample image used in the site  
 
