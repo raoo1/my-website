@@ -8,6 +8,7 @@ This repository documents my journey into web development and deployment.
 ## 📂 Project Structure
 - **index.html** → Homepage  
 - **about.html** → About Me page  
+- **projects.html** → Projects page  
 - **style.css** → Custom CSS styles  
 - **photo.jpg** → Sample image used in the site  
 
@@ -20,7 +21,7 @@ This repository documents my journey into web development and deployment.
 ### 👤 About Page
 ![About Page Screenshot](about.png)
 
-🌐 Live site: [https://raoo1.github.io/my-website/](https://raoo1.github.io/my-website/)
+🌐 Live site: [https://rao01.github.io/my-website/](https://rao01.github.io/my-website/)
 
 ---
 
