@@ -1,7 +1,7 @@
 # Major Rao’s First Website
 
 Welcome to my first personal website project, proudly deployed using **GitHub Pages**.  
-This repository showcases my journey into web development and deployment.
+This repository documents my journey into web development and deployment.
 
 ---
 
@@ -16,7 +16,7 @@ This repository showcases my journey into web development and deployment.
 ## 🖼️ Preview
 ![Screenshot of my site](photo.jpg)
 
-Visit the live site here: [https://raoo1.github.io/my-website/](https://raoo1.github.io/my-website/)
+🔗 Live site: [https://raoo1.github.io/my-website/](https://raoo1.github.io/my-website/)
 
 ---
 
@@ -30,19 +30,18 @@ Visit the live site here: [https://raoo1.github.io/my-website/](https://raoo1.gi
 
 ## 🚀 Future Plans
 - Add more pages (Projects, Contact, Blog)  
-- Improve CSS styling with animations and responsive design  
+- Enhance CSS with animations and responsive design  
 - Include multiple screenshots for better previews  
 - Explore integration with Netlify or Supabase for advanced features  
 
 ---
 
 ## 👨‍💻 Author
-⭐ Built and maintained by **Major Rao**  
-📍 Location: Hayathnagar, India  
-🕒 Started: September 2026  
+- Built and maintained by **Major Rao**  
+- Location: Hayathnagar, India  
+- Started: September 2026  
 
 ---
 
 ## 📜 License
 This project is open-source. Feel free to explore, learn, and adapt.
-
