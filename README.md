@@ -1,54 +1,37 @@
-# Major Rao’s First Website
+# 🌐 Major Rao’s Portfolio Website
 
-Welcome to my first personal website project, proudly deployed using **GitHub Pages**.  
-This repository documents my journey into web development and deployment.
+This is my first professional website project, built step by step with **GitHub Pages** and **Netlify**.  
+It showcases my journey in web development, astrology insights, and workflow experiments.
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
 - **index.html** → Homepage  
-- **about.html** → About Me page  
-- **projects.html** → Projects page  
-- **contact.html** → Contact page  
-- **blog.html** → Blog page  
-- **style.css** → Custom CSS styles  
-- **photo.jpg** → Sample image used in the site  
-
----
-
-## 🖼️ Preview
-### 🏠 Homepage
-![Homepage Screenshot](photo.jpg)
-
-### 👤 About Page
-![About Page Screenshot](about.png)
-
-🌐 Live site: [https://rao01.github.io/my-website/](https://rao01.github.io/my-website/)
+- **about.html** → About Me  
+- **projects.html** → My Projects  
+- **contact.html** → Contact Form  
+- **blog.html** → Blog Posts  
+- **style.css** → Global Stylesheet  
+- **photo.jpg** → Profile Photo  
 
 ---
 
 ## ✨ Features
-- Clean layout with a light yellow background  
-- Styled headings and text for readability  
-- Rainbow hover effect on buttons for interactive design  
-- Fully deployed and accessible via GitHub Pages  
+- Responsive navigation bar  
+- Styled project cards  
+- Contact form with validation  
+- Blog section with posts  
+- Professional footer with GitHub, LinkedIn, and Email links  
 
 ---
 
-## 🚀 Future Plans
-- Add more pages (Projects, Contact, Blog)  
-- Enhance CSS with animations and responsive design  
-- Include multiple screenshots for better previews  
-- Explore integration with Netlify or Supabase for advanced features  
+## 🚀 Deployment
+This site is deployed using **GitHub Pages**:  
+👉 [https://raoo1.github.io/my-website/](https://raoo1.github.io/my-website/)
 
 ---
 
-## 👨‍💻 Author
-- Built and maintained by **Major Rao**  
-- Location: Hayathnagar, India  
-- Started: September 2026  
-
----
-
-## 📜 License
-This project is open-source. Feel free to explore, learn, and adapt.
+## 📬 Contact
+- GitHub: [raoo1](https://github.com/raoo1)  
+- LinkedIn: [Major Rao](https://linkedin.com/in/major-rao)  
+- Email: your-email@example.com  
